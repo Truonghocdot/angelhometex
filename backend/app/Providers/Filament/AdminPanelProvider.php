@@ -30,7 +30,7 @@ class AdminPanelProvider extends PanelProvider
             ->login()
             ->brandName('Angel HomeTex CMS')
             ->colors([
-                'primary' => Color::Amber,
+                'primary' => Color::Blue,
             ])
             ->sidebarCollapsibleOnDesktop()
             ->navigationGroups([
